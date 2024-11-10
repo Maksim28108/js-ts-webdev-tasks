@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Startup Framework",
+        "content": "Startup Framework works fine on devices supporting Retina Display. Feel the clarity!",
+        "image": "baloon.jfif",
+        "tags": ["UI KIT", "FRAMEWORK", "LANDING PAGE", "GENERATOR"]
+    },
+    {
+        "name": "Slides",
+        "content": "We have created a new product that will help designers create websites for their startups.",
+        "image": "bottle.jfif",
+        "tags": ["UI KIT", "COLORFUL", "LANDING PAGE", "SLIDE"]
+    },
+    {
+        "name": "Flat UI Pro",
+        "content": "Components and blocks are fixed to the common and popular 12 Grid system.",
+        "image": "house.jfif",
+        "tags": ["UI KIT", "COLORFUL", "LANDING PAGE", "SLIDE"]
+    },
+    {
+        "name": "Slides",
+        "content": "We have created a new product that will help designers create websites for their startups.",
+        "image": "keyboard.jfif",
+        "tags": ["UI KIT", "COLORFUL", "LANDING PAGE", "SLIDE"]
+    }
+]
