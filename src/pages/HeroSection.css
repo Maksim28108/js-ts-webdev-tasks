@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    background-image: url('/src/assets/heropage.png');
+    background-size: cover;
+    height: 1080px;
+    background-position: center;
+    font-family: 'Rubik';
+  }
+
+  
+  .hero-title {
+    font-size: 58px;
+    margin: 20px 0;
+    font-family: 'Jolly Lodger';
+    color: #FE772D;
+    font-weight: normal; 
+
+  }
+  
+
+ 
+
+

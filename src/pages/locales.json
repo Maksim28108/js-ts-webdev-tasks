@@ -1,0 +1,36 @@
+{
+    "en":{
+        "home": "Home",
+        "about": "About",
+        "contacts": "Contacts",
+        "reservation": "Reservation",
+        "gallery": "Gallery",
+        "party": "Party Time!",
+
+        "date": "31 OCTOBER 2023",
+        "hero-title": "IT'S HALLOWEEN PARTY O'CLOCK!",
+
+        "memories": "HALLOWEEN MEMORIES",
+
+        "phone":"phone reservation? (+1) 987 46 52"
+
+        
+    },
+
+    "ar": {
+        "home": "خانه",
+        "about": "درباره پارتی",
+        "contacts": "تماس با ما",
+        "reservation": "رزرو میز",
+        "gallery": "گالری",
+        "party": "پارتی تایم",
+
+        "date": "31 أكتوبر 2023",
+        "hero-title":"اینجا هالوین پارتی به راهه!",
+
+        "memories": "هالوین پارتی های قبلیمون",
+
+        "phone": "الحجز عبر الهاتف؟ (+1) 987 46 52"
+
+    }
+}

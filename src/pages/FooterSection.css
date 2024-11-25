@@ -1,0 +1,37 @@
+.footer {
+    background-color: #000015;
+    padding: 40px 20px;
+    text-align: center;
+    color: #FE772D;
+    font-family: 'Jolly Lodger';
+    background-image: url(/src/assets/footerimages/Vector.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    z-index: 1;
+}
+
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 400px;
+    z-index: 2;
+}
+
+.footer-title {
+    margin-bottom: 20px;
+    font-size: 58px;
+}
+
+.footer-icons img {
+    font-size: 24px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+
+
+

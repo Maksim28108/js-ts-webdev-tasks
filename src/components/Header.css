@@ -1,0 +1,107 @@
+ .header{
+  direction: ltr
+ }
+
+
+[dir="rtl"] .header {
+  direction: rtl; 
+}
+ 
+ .nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+ }
+
+ [dir="rtl"] .nav {
+  justify-content: flex-end; 
+}
+  
+  .header-left{
+    display: flex;
+    align-items: center;
+    padding:0px 200px  ;
+  }
+
+
+[dir="rtl"] .header-left {
+  padding: 0 200px 0 0 ; 
+}
+
+.header-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; 
+  align-items: center;
+  padding-left: 150px;
+  gap: 20px;
+}
+
+[dir="rtl"] .header-right {
+  justify-content: flex-end; 
+  padding-left: 0; 
+  padding-right: 150px; 
+}
+  
+  .nav-list{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 220px;
+    list-style: none;
+    gap: 20px
+  }
+
+  [dir="rtl"] .nav-list {
+    justify-content: flex-end;
+    padding-left: 0;
+    padding-right: 220px; 
+}
+
+
+  .nav-list li {
+    white-space: nowrap; 
+}
+
+  .language-btn{
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 20px;
+    text-align: right;
+  }
+
+  [dir="rtl"] .language-btn {
+    text-align: left; 
+}
+
+  .language-btn:hover {
+    text-decoration: underline;
+}
+
+  .reservation-btn {
+    background-color: #FE772D;
+    padding: 10px;
+    border-radius: 10px;
+    border: none
+  }
+
+  .reservation-btn:hover {
+    background-color: #cc5200;
+  }
+
+
+  .logo {
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 48px;
+    font-weight: normal; 
+    white-space: nowrap; 
+    margin-right: 0; 
+    margin-left: 0;
+  }
+
+  
